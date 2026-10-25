@@ -5,7 +5,7 @@
 
 A
 [Peaks of Yore](https://store.steampowered.com/app/2236070/)
-which replaces the default arm textures with plink.
+mod which replaces the default arm textures with plink.
 
 # Overview
 - [Installing](#installing)
